@@ -1,0 +1,12 @@
+@mixin botonav{
+  color: #CD5C5C;
+  width: 100px;
+  height: 50px;
+}
+
+@mixin imgcirculares(){
+	width:300px;
+    height:300px;
+    border-radius:150px;
+    border:10px solid #CD853F;
+}
