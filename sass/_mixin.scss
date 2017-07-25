@@ -9,4 +9,12 @@
     height:300px;
     border-radius:150px;
     border:10px solid #CD853F;
+
+}
+
+@mixin otonfree(){
+	padding: 5px;
+	height: 10px;
+	width: 25px;
+	color: white; 
 }
